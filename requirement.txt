@@ -1,0 +1,13 @@
+AI Assistant
+1.Install all the required libraries.
+2.Install VoiceVox and open it every time you want to run the code (otherwise, you will get an error).
+3.Get the Gemini AI API key and include it in the code.
+
+AI VTUBER
+Extra Requirements:
+4.Install VB Audio Virtual Cable and select Cable Input as your sound output.
+5.Configure VB Audio so you can hear the sound.
+6.Install VTube Studio.
+7.In VTube Studio, set Cable Output and Mouth Open based on Voice Volume.
+8.Done. Run the code.
+(REMINDER: Keep VoiceVox open so you won't get an error when you run the code.)
